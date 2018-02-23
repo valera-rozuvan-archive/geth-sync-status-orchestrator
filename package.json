@@ -1,0 +1,14 @@
+{
+  "name": "geth-sync-status-orchestrator",
+  "version": "0.0.1",
+  "description": "geth-sync-status-orchestrator",
+  "main": "orchestrator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valera Rozuvan",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^0.19.0"
+  }
+}
